@@ -15,6 +15,7 @@ This repo contains all of the resources necessary to create a bivariate map for 
 ## Resources
 | Base data geopackage | Style Layer Definition (SLD) file | Bivariate SQL script | QGIS layout template |
 | -------------------- | --------------------------------- | -------------------- | -------------------- |
+| | [BivariateDots Style](https://github.com/emduymeli/VivEm-Bivariate/blob/main/VivEm_2ScaleBivariateDotsFill.qml) | | [A3 layout](https://github.com/emduymeli/VivEm-Bivariate/blob/main/VivEm_bivariate_A3.qpt)|
 
 ## Checklist 
 - [ ]  Download base data geopackage
