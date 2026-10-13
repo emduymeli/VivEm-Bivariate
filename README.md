@@ -1,4 +1,4 @@
-# VivEm-Bivatiate
+# VivEm-Bivariate
 This repo contains all of the resources necessary to create a bivariate map for Belgium as a part of the FOSS4GBE critical cartography workshop *taking place on 15/10/2026*. The method utilizes public statistical data but is intended for creating [critical cartographies](https://en.wikipedia.org/wiki/Critical_cartography) -- maps that reveal socio-spatial power dynamics: try combining interdisciplinary variables, or two variables that you feel are correlated but are not usually viewed in tandem. 
 
 
