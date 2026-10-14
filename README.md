@@ -15,7 +15,7 @@ This repo contains all of the resources necessary to create a bivariate map for 
 ## Resources
 | Base data geopackage | Style Layer Definition (SLD) file | Bivariate SQL script | QGIS layout template |
 | -------------------- | --------------------------------- | -------------------- | -------------------- |
-| | [BivariateDots Style](https://github.com/emduymeli/VivEm-Bivariate/blob/main/VivEm_2ScaleBivariateDotsFill.qml) | | [A3 layout](https://github.com/emduymeli/VivEm-Bivariate/blob/main/VivEm_bivariate_A3.qpt)|
+|[Download here](https://data.gov.be/nl/datasets/httpswwwodwbbeexploredatasetcommunesgemeente-belgium) | [BivariateDots Style](https://github.com/emduymeli/VivEm-Bivariate/blob/main/VivEm_2ScaleBivariateDotsFill.qml) | [SQL](https://github.com/emduymeli/VivEm-Bivariate/blob/main/Bivariate_SQL.sql)| [A3 layout](https://github.com/emduymeli/VivEm-Bivariate/blob/main/VivEm_bivariate_A3.qpt)|
 
 ## Checklist 
 - [ ]  Download base data geopackage
@@ -30,5 +30,12 @@ This repo contains all of the resources necessary to create a bivariate map for 
 - [ ] Run script
 - [ ] Style the layer
 - [ ] Add titles
+
+## Workshop Questions 
+1. What do we see when we look closely?
+2. What do we see when we look from afar?
+3. Why might we combine these variables?
+4. Which other things might me want to overlay here?
+
 
 
